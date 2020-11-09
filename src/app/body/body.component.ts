@@ -14,5 +14,5 @@ export class BodyComponent{
         autor: 'Ben Parker'
     };
 
-    personajes:string[]=['Iron Man','Spiderman','Hulk']
+    personajes:string[]=['Batman','Hulk','Thor']
 }

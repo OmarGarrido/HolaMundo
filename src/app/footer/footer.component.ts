@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class FooterComponent {
 
-  autor='Omar Garrido';
+  autor='Arianna Delgado';
   anio:number;
   constructor(){
     this.anio=new Date().getFullYear();
